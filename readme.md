@@ -1,15 +1,21 @@
 # Awesome Webots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Interesting projects, papers, books, demos and other resources related to [Webots](https://github.com/cyberbotics/webots) robot simulator (mobile and industrial robots, drones, autonomous vehicles and more). Webots is open source software, available for Windows, Mac and Linux. It supports client libraries in C/C++, Python, Java, Matlab and ROS.
+> Interesting projects, papers, books, demos and other resources related to [Webots](https://github.com/cyberbotics/webots) robot simulator.
+
+Webots is a free and open-source 3D robot simulator used in industry, education and research. It includes a large collection of freely modifiable models of robots, sensors, actuators and objects. The robot controller programs can be written outside of Webots in C, C++, Python, ROS, Java and MATLAB using a simple API. Webots can stream a simulation on web browsers using WebGL. 
+
+(source [Wikipedia](https://en.wikipedia.org/wiki/Webots))
 
 ## Contents
 
 - [Tools and Libraries](#tools-and-libraries)
 - [Tutorials](#tutorials)
+- [Community](#community)
 - [Open Source Projects](#projects)
 - [Simulations](#simulaitons)
 - [Papers](#papers)
 - [Books](#books)
+- [Podcasts](#podcasts)
 - [Related Awesome LIsts](#related-awesome-lists)
 
 
@@ -39,6 +45,13 @@ Tutorials on how to use Webots.
 
 - [Tutorials by Soft illusion](https://www.youtube.com/playlist?list=PLt69C9MnPchlWEV5AEhfT2HajlE2SJ55V)
 - [[Turkish] Tutorials by harunlakodla](https://www.youtube.com/playlist?list=PL2gHOyQeamXK-UtKcDOBqy1TC7iazIaWE)
+
+
+## Community
+
+- [Discord Channel](https://discord.com/invite/nTWbN9m)
+- [Webots Blog](https://www.cyberbotics.com/doc/blog/Webots-2020-a-release)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/webots)
 
 
 ## Open Source Projects
@@ -76,6 +89,11 @@ Books about Webots.
 
 - [Webots: Symbiosis Between Virtual and Real Mobile Robots](https://link.springer.com/chapter/10.1007/3-540-68686-X_24)
 - [Cyberbotics' Robot Curriculum](https://en.wikibooks.org/wiki/Cyberbotics%27_Robot_Curriculum) 
+
+
+## Podcasts
+
+- [Using Webots Robot Simulator With ROS With Olivier Michel](https://www.theconstructsim.com/webots-robot-simulator-ros-olivier-michel/)
 
 
 ## Related Awesome Lists
