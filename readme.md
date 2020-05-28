@@ -34,10 +34,10 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 
 Tutorials on how to use Webots.
 
-- [Official Tutorial](https://cyberbotics.com/doc/guide/tutorials)
-- [Official User Guide](https://cyberbotics.com/doc/guide/index)
-- [Official Reference Manual](https://cyberbotics.com/doc/reference/index)
-- [Official Documentation for Automobiles](https://cyberbotics.com/doc/automobile/index)
+- [Webots Tutorial](https://cyberbotics.com/doc/guide/tutorials)
+- [Webots User Guide](https://cyberbotics.com/doc/guide/index)
+- [Webots Reference Manual](https://cyberbotics.com/doc/reference/index)
+- [Webots Documentation for Automobiles](https://cyberbotics.com/doc/automobile/index)
 - [Course "Introduction to Robotics" from Colorado](http://correll.cs.colorado.edu/?s=webots)
 - [Course "Distributed Intelligent Systems" from EPFL](https://www.epfl.ch/labs/disal/teaching/distributed_intelligent_systems/exercises/)
 
@@ -58,8 +58,8 @@ Tutorials on how to use Webots.
 
 List of open source projects that use Webots.
 
+- [Deep Reinforcement Learning with PyTorch](https://github.com/LucasWaelti/RL_Webots) This repository shows how Deep Reinforcement Learning can be used within Webots.
 - [DJI Mavic 2 Pro PID Controller](https://github.com/alpinmaarif/Webots-DJI-Mavic-2-Pro-PID-Controller) Webots Simulation about controlling the UAV Quadrotor DJI Mavic 2 Pro using PID Controller in Python Programming.
-- [PyTorch and Webots](https://github.com/LucasWaelti/RL_Webots) This repository shows how Deep Reinforcement Learning can be used within Webots. 
 - [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis) Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
 
 
@@ -67,10 +67,10 @@ List of open source projects that use Webots.
 
 List of simulations created with Webots.
 
-- [Official Boston Dynamics Spot](https://www.youtube.com/watch?v=b5mVe6dk0wI)
-- [Official DJI Mavic 2 PRO](https://www.youtube.com/watch?v=-hJssj_Vcw8)
-- [Official Autonomous Vehicle Simulation](https://www.youtube.com/watch?v=RhzZ6Ao6Shc)
-- [Official Universal Robots UR5e Simulation](https://www.youtube.com/watch?v=WIY9ebqSXUc)
+- [Webots Boston Dynamics Spot](https://www.youtube.com/watch?v=b5mVe6dk0wI)
+- [Webots DJI Mavic 2 PRO](https://www.youtube.com/watch?v=-hJssj_Vcw8)
+- [Webots Autonomous Vehicle Simulation](https://www.youtube.com/watch?v=RhzZ6Ao6Shc)
+- [Webots Universal Robots UR5e Simulation](https://www.youtube.com/watch?v=WIY9ebqSXUc)
 - [AT-ST Inspired Walker](https://twitter.com/mantisrobot/status/1254693299702714369)
 
 ## Papers
