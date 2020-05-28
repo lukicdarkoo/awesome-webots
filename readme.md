@@ -1,10 +1,14 @@
 # Awesome Webots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
 > Interesting projects, papers, books, demos and other resources related to [Webots](https://github.com/cyberbotics/webots) robot simulator.
+
+![Webots Cover](assets/cover.png)
 
 Webots is a free and open-source 3D robot simulator used in industry, education and research. It includes a large collection of freely modifiable models of robots, sensors, actuators and objects. The robot controller programs can be written outside of Webots in C, C++, Python, ROS, Java and MATLAB using a simple API. Webots can stream a simulation on web browsers using WebGL. 
 
 (source [Wikipedia](https://en.wikipedia.org/wiki/Webots))
+
 
 ## Contents
 
