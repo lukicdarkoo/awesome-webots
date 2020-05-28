@@ -1,6 +1,6 @@
 # Awesome Webots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Interesting projects, papers, books, demos and other resources related to [Webots](https://github.com/cyberbotics/webots) robot simulator (mobile and industrial robots, drones, autonomous vehicles and more). Webots is open source software, available for Windows, Mac and Linux. It supports client libraries in C/C++, Python, Java, Matlab and ROS, and it allows you to simulate.
+> Interesting projects, papers, books, demos and other resources related to [Webots](https://github.com/cyberbotics/webots) robot simulator (mobile and industrial robots, drones, autonomous vehicles and more). Webots is open source software, available for Windows, Mac and Linux. It supports client libraries in C/C++, Python, Java, Matlab and ROS.
 
 ## Contents
 
