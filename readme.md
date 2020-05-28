@@ -65,6 +65,7 @@ List of open source projects that use Webots.
 - [Deep Reinforcement Learning with PyTorch](https://github.com/LucasWaelti/RL_Webots) This repository shows how Deep Reinforcement Learning can be used within Webots.
 - [DJI Mavic 2 Pro PID Controller](https://github.com/alpinmaarif/Webots-DJI-Mavic-2-Pro-PID-Controller) Webots Simulation about controlling the UAV Quadrotor DJI Mavic 2 Pro using PID Controller in Python Programming.
 - [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis) Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
+- [Webots in Jupyter Lab](https://github.com/RobInLabUJI/Webots-Docker) Run Webots streaming server in a Docker image with Jupyter Lab.
 
 
 ## Simulations
