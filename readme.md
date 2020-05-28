@@ -69,6 +69,7 @@ List of simulations created with Webots.
 
 - [Webots Boston Dynamics Spot](https://www.youtube.com/watch?v=b5mVe6dk0wI)
 - [Webots DJI Mavic 2 PRO](https://www.youtube.com/watch?v=-hJssj_Vcw8)
+- [Webots TIAGo++](https://www.youtube.com/watch?v=2KYpuaREQm0)
 - [Webots Autonomous Vehicle Simulation](https://www.youtube.com/watch?v=RhzZ6Ao6Shc)
 - [Webots Universal Robots UR5e Simulation](https://www.youtube.com/watch?v=WIY9ebqSXUc)
 - [AT-ST Inspired Walker](https://twitter.com/mantisrobot/status/1254693299702714369)
