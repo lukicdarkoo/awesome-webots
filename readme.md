@@ -20,6 +20,7 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 - [Papers](#papers)
 - [Books](#books)
 - [Podcasts](#podcasts)
+- [Competitions](#competitions)
 - [Related Awesome LIsts](#related-awesome-lists)
 
 
@@ -66,6 +67,7 @@ List of open source projects that use Webots.
 - [DJI Mavic 2 Pro PID Controller](https://github.com/alpinmaarif/Webots-DJI-Mavic-2-Pro-PID-Controller) Webots Simulation about controlling the UAV Quadrotor DJI Mavic 2 Pro using PID Controller in Python Programming.
 - [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis) Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
 - [Webots in Jupyter Lab](https://github.com/RobInLabUJI/Webots-Docker) Run Webots streaming server in a Docker image with Jupyter Lab.
+- [Micromouse in Webots](https://emstef.github.io/Micromouse/) E-Puck robot solves a 16×16 maze using localization, mapping, path planning and motion control.
 
 
 ## Simulations
@@ -100,6 +102,15 @@ Books about Webots.
 ## Podcasts
 
 - [Using Webots Robot Simulator With ROS With Olivier Michel](https://www.theconstructsim.com/webots-robot-simulator-ros-olivier-michel/)
+
+
+## Competitions
+
+This is a list of recent competitions that utilize Webots.
+In case you plan to organize online competition you may find the list useful.
+
+- [Student Robotics Competition](https://studentrobotics.org/docs/competition-simulator/) (2020)
+- [RoboCupJunior Rescue Simulation](https://junior.forum.robocup.org/t/call-for-volunteers-teams-robocupjunior-rescue-simulation-virtual-workshops/1441) (2020)
 
 
 ## Related Awesome Lists
