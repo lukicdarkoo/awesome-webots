@@ -13,6 +13,7 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 ## Contents
 
 - [Tools and Libraries](#tools-and-libraries)
+- [Integrations](#itegrations)
 - [Tutorials](#tutorials)
 - [Community](#community)
 - [Open Source Projects](#projects)
@@ -26,14 +27,19 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 
 ## Tools and Libraries
 
-- [RobotBenchmark](https://robotbenchmark.net/) Program simulated robots online. Compare your performance to the best. Share your achievements.
-- [webots_ros2](https://github.com/cyberbotics/webots_ros2) Provides an interface for controlling robots simulated in Webots using ROS2.
-- [urdf2webots](https://github.com/cyberbotics/urdf2webots) Utility to convert URDF files to Webots PROTO nodes.
-- [Robot Designer](https://github.com/cyberbotics/robot-designer) Online tool that lets users build custom robots in an easy and quick way.
-- [Webots for Visual Code](https://marketplace.visualstudio.com/items?itemName=pymzor.language-proto-webots) Webots-flavoured PROTO Syntax Highlighting Support in VSCode.
-- [Webots for Atom](https://github.com/tn12787/PROTO-Webots) Webots-flavoured PROTO Syntax Highlighting Support in Atom.
-- [Deepbots](https://github.com/aidudezzz/deepbots) A wrapper framework for Reinforcement Learning in Webots simulator using Python 3.
+- [RobotBenchmark](https://robotbenchmark.net/): Program simulated robots online. Compare your performance to the best. Share your achievements.
+- [urdf2webots](https://github.com/cyberbotics/urdf2webots): Utility to convert URDF files to Webots PROTO nodes.
+- [Robot Designer](https://github.com/cyberbotics/robot-designer): Online tool that lets users build custom robots in an easy and quick way.
+- [Webots for Visual Code](https://marketplace.visualstudio.com/items?itemName=pymzor.language-proto-webots): Webots-flavoured PROTO Syntax Highlighting Support in VSCode.
+- [Webots for Atom](https://github.com/tn12787/PROTO-Webots): Webots-flavoured PROTO Syntax Highlighting Support in Atom.
 
+## Integrations
+
+- [webots_ros2](https://github.com/cyberbotics/webots_ros2): Webots interface for [ROS 2](http://docs.ros.org/en/foxy/).
+- [Deepbots](https://github.com/aidudezzz/deepbots): Webots interface for [Open AI Gym](https://gym.openai.com/).
+- [SITL with Webots](https://ardupilot.org/dev/docs/sitl-with-webots.html): Webots integration for [ArduPilot](https://ardupilot.org/).
+- [Webots-Blockly](https://github.com/victorhu3/Webots-Blockly): Webots integration for [Blockly](https://developers.google.com/blockly).
+- [Webots Animation](https://github.com/marketplace/actions/webots-animation): Webots integration for [GitHub Actions](https://github.com/features/actions).
 
 ## Tutorials
 
@@ -63,11 +69,11 @@ Tutorials on how to use Webots.
 
 List of open source projects that use Webots.
 
-- [Deep Reinforcement Learning with PyTorch](https://github.com/LucasWaelti/RL_Webots) This repository shows how Deep Reinforcement Learning can be used within Webots.
-- [DJI Mavic 2 Pro PID Controller](https://github.com/alpinmaarif/Webots-DJI-Mavic-2-Pro-PID-Controller) Webots Simulation about controlling the UAV Quadrotor DJI Mavic 2 Pro using PID Controller in Python Programming.
-- [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis) Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
-- [Webots in Jupyter Lab](https://github.com/RobInLabUJI/Webots-Docker) Run Webots streaming server in a Docker image with Jupyter Lab.
-- [Micromouse in Webots](https://emstef.github.io/Micromouse/) E-Puck robot solves a 16×16 maze using localization, mapping, path planning and motion control.
+- [Deep Reinforcement Learning with PyTorch](https://github.com/LucasWaelti/RL_Webots): This repository shows how Deep Reinforcement Learning can be used within Webots.
+- [DJI Mavic 2 Pro PID Controller](https://github.com/alpinmaarif/Webots-DJI-Mavic-2-Pro-PID-Controller): Webots Simulation about controlling the UAV Quadrotor DJI Mavic 2 Pro using PID Controller in Python Programming.
+- [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis): Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
+- [Webots in Jupyter Lab](https://github.com/RobInLabUJI/Webots-Docker): Run Webots streaming server in a Docker image with Jupyter Lab.
+- [Micromouse in Webots](https://emstef.github.io/Micromouse/): E-Puck robot solves a 16×16 maze using localization, mapping, path planning and motion control.
 
 
 ## Simulations
