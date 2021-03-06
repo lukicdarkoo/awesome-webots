@@ -12,6 +12,7 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 
 ## Contents
 
+- [Installation](#installation)
 - [Tools and Libraries](#tools-and-libraries)
 - [Integrations](#itegrations)
 - [Tutorials](#tutorials)
@@ -24,6 +25,14 @@ Webots is a free and open-source 3D robot simulator used in industry, education 
 - [Competitions](#competitions)
 - [Related Awesome LIsts](#related-awesome-lists)
 
+
+## Installation
+
+Besides the official installation methods there are unofficial ones like AUR and Homebrew.
+
+- [Official](https://github.com/cyberbotics/webots/releases/tag/R2021a): Windows (standard Windows installer), Linux ([snap](https://snapcraft.io/webots) package, Debian package, and `tar.bz2` archive), and macOS (`.dmg` bundle).
+- [Homebrew](https://formulae.brew.sh/cask/webots)
+- [AUR](https://aur.archlinux.org/packages/webots/)
 
 ## Tools and Libraries
 
